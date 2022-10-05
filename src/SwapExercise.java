@@ -14,5 +14,6 @@ public class SwapExercise {
         b = temp;
 
         System.out.printf("a:%d b:%d", a, b);
+        System.out.println(a);
     }
 }
